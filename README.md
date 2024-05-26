@@ -3,6 +3,7 @@
 - 🌱 I’m currently a Data Engineer Consultant.
 - 💞️ I’m looking to collaborate on subject related to everything. The field of knowledge is vast and I do not want to restrict myself
 - 📫 How to reach me : On X : @GilchrisE / Instagram : wilfried.ekou / mail : koua.ekou225@gmail.com; 	wildevback97@gmail.com
+- Site web : [Wilfried EKOU](https://ei-koua-ekou.b12sites.com/index#home)
 
 <!---
 wkekou/wkekou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
